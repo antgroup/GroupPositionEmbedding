@@ -1,0 +1,23 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+
+# Log
+
+# Editor
+.idea
+*.swp
+.theia
+
+# Other
+.DS_Store
+*.bin
+data 
+data_bak
+data_util
+results
+model_utils/tmp
+infer_local.py
+delete.py
+config_local.py

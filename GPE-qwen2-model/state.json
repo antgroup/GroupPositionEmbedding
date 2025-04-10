@@ -1,0 +1,5 @@
+{
+  "lr": 1e-05,
+  "optimizer_lr": 1e-05,
+  "global_step": 20000
+}

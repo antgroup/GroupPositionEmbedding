@@ -11,19 +11,6 @@
 This repository is the official implementation of Group Position Embedding. Group Position Embedding (GPE) is a novel and efficient technique to enhance the layout understanding ca-pabilities of LLMs without architectural changes or additional pre-training. GPE achieves this by strategically grouping the attention heads and feeding each group with distinct positional embeddings, effectively encoding layout information relevant to document comprehension. For more details, please refer to our paper:
 
 
-## News
-
-- **`2025.02.06`**  We release the dataset.
-- **`2025.02.05`**  We release the paper.
-
-
-
-## Performance
-
-
-
-## Environment
-
 
 ## Inference
 
